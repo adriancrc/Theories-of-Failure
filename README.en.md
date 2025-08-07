@@ -16,13 +16,13 @@
 
 ---
 
-## 👨‍💻 Author 🇬🇧
+## 👨‍💻 Author
 **Adrián José Quesada Martínez**  
 *Tecnológico de Costa Rica (ITCR)*
 
 ---
 
-## 📘 Description 🇬🇧
+## 📘 Description
 
 This interactive MATLAB App allows you to evaluate planar stress states using three classical **failure theories**. It is designed for teaching or self-learning in mechanical engineering, solid mechanics, and machine design.
 
@@ -30,7 +30,6 @@ This interactive MATLAB App allows you to evaluate planar stress states using th
 
 ## 🧠 Implemented Theories
 
-- **Maximum Normal Stress** (Rankine)  
 - **Maximum Shear Stress** (Tresca)  
 - **Distortion Energy Theory** (von Mises)
 
