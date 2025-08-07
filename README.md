@@ -16,13 +16,13 @@
 
 ---
 
-## 👨‍💻 Autor 🇪🇸
+## 👨‍💻 Autor
 **Adrián José Quesada Martínez**  
 *Instituto Tecnológico de Costa Rica*
 
 ---
 
-## 📘 Descripción 🇪🇸
+## 📘 Descripción
 
 Esta aplicación desarrollada con MATLAB App Designer permite analizar estados de esfuerzo planos mediante tres teorías clásicas de falla. Es ideal para cursos de mecánica de materiales, resistencia y diseño mecánico.
 
@@ -30,7 +30,6 @@ Esta aplicación desarrollada con MATLAB App Designer permite analizar estados d
 
 ## 🧠 Teorías implementadas
 
-- **Esfuerzo normal máximo** (Rankine)  
 - **Esfuerzo cortante máximo** (Tresca)  
 - **Energía de distorsión** (von Mises)
 
