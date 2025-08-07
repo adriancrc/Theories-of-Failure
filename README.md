@@ -2,7 +2,7 @@
 
 🇬🇧 English version available: [README.en.md](README.en.md) 🇬🇧
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/)  
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=adriancrc/Theories-of-Failure)  
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/)
 
 ![GitHub Release](https://img.shields.io/github/v/release/adriancrc/Theories-of-Failure)
